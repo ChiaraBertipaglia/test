@@ -11,4 +11,4 @@ This is a list
 1. item 1
 2. item 2
 
-[LICENSE.md] (website of license.md) 
+[LICENSE.md] (https://github.com/ChiaraBertipaglia/test/blob/master/LICENSE.md) 
